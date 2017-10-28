@@ -168,6 +168,10 @@ button:disabled {
   margin-right: 10px;
 }
 
+.message__body {
+  margin-bottom: 12px;
+}
+
 .message__title span {
   color: #999;
 }
